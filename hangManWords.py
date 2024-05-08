@@ -1,0 +1,22 @@
+hangManWordList = [
+    "elephant", "computer", "keyboard", "programming", "hangman",
+    "python", "programming", "internet", "algorithm", "development",
+    "chocolate", "universe", "spaceship", "discovery", "astronaut",
+    "spaceship", "constellations", "constellation", "galaxy", "starship",
+    "technology", "innovation", "adventure", "discovery", "exploration",
+    "curiosity", "discovery", "invention", "laboratory", "scientist",
+    "microscope", "telescope", "telescope", "discovery", "exploration",
+    "adventure", "laboratory", "chemical", "reaction", "molecule",
+    "experiment", "hypothesis", "observation", "conclusion", "laboratory",
+    "education", "knowledge", "discovery", "imagination", "creativity",
+    "innovation", "inspiration", "discovery", "invention", "curiosity",
+    "exploration", "adventure", "discovery", "imagination", "creativity",
+    "innovation", "inspiration", "discovery", "invention", "curiosity",
+    "exploration", "adventure", "discovery", "imagination", "creativity",
+    "innovation", "inspiration", "discovery", "invention", "curiosity",
+    "exploration", "adventure", "discovery", "imagination", "creativity",
+    "innovation", "inspiration", "discovery", "invention", "curiosity",
+    "exploration", "adventure", "discovery", "imagination", "creativity",
+    "innovation", "inspiration", "discovery", "invention", "curiosity",
+    "exploration", "adventure", "discovery", "imagination", "creativity"
+]
